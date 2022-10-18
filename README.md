@@ -1,10 +1,3 @@
-<p align='center'>
-  <b>Hi 👋, I'm skeezow</b><br>
-  <a href="https://t.me/skeezow">Tele</a> |
-  <a href="https://ogusers.com/do">OGU</a> |
-
-
-
 ```bash
 
 > neofetch
