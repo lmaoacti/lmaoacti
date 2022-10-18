@@ -20,12 +20,4 @@ skeezow@github
   
 ```
 
-𝙑 𝙞 𝙚 𝙬
 <img src="https://profile-counter.glitch.me/%7Bskeezowt%7D/count.svg" style="max-width: 100%;">
-
-
-
-------------												
-- <p align="center"> Hi, I’m @skeezow
-
------------------
