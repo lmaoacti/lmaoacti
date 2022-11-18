@@ -1,6 +1,6 @@
 ```bash
 
-> neofetch
+> lmaoacti
 
 ```
 <img src="https://cdn.discordapp.com/attachments/755818851689824331/960571903771291658/unknown.png" align="left" src="https://cdn.discordapp.com/attachments/755818851689824331/960571903771291658/unknown.png" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
@@ -8,10 +8,9 @@
 ```py
 
 
-skeezow@github
+lmaoacti@github
 ----------------
 
-       OS  :  Arch Linux
        WM  :  Openbox
     Shell  :  Bash
  Terminal  :  Alacritty
